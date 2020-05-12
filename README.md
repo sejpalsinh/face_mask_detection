@@ -10,3 +10,5 @@
 </ol>
 <h4>Now download and run maskdetecting.py using : <b>python maskdetecting.py</b></h4>
 <h3>Please wait for 15-20 seconds it will take time to get you camera access</b></h3>
+
+<video src="maskdetection.mp4" width="320" height="200" controls preload></video>
