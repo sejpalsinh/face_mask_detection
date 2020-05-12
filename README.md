@@ -1,4 +1,4 @@
-<h1><b>Live face mask detection simple code</b></h1>
+<h1><b>Live face mask detection</b></h1>
 
 <h3>Easiest Way for live face mask detection</h3>
 <h4>You have to install python and some library Using : <b>pip install library_name</b></h4>
