@@ -9,3 +9,4 @@
   <li><b>Open cv</b></li>
 </ol>
 <h4>Now download and run maskdetecting.py using : <b>python maskdetecting.py</b></h4>
+<h3>Please wait for 15-20 seconds it will take time to get you camera access</b></h3>
